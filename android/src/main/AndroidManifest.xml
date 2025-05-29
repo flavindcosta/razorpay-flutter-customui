@@ -1,5 +1,4 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-  package="com.razorpay.flutter_customui">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <queries>
         <!-- List of apps which you want to support for Intent pay -->
         <package android:name="com.google.android.apps.nbu.paisa.user" />
